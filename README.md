@@ -1,2 +1,1 @@
-# myCV
-This is my CV
+# cv-my
